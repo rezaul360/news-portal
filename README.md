@@ -12,3 +12,8 @@ jsonwebtoken dotenv
 ## 4. install packages dev dependency
 
 npm i nodemon -D, npm i concurrently -D
+
+## create server server.js file
+
+## edit package.json file, change script by concurrently and nodemon
+
